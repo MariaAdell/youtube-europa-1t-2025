@@ -90,7 +90,7 @@ El proyecto incluye los siguientes archivos:
 
 - 🗂️ archive.zip: Archivo original con el dataset descargado.
 - 🗺️ listado_paises_con_continente.csv: Archivo auxiliar con la relación entre código ISO del país, nombre del país y continente.
-- 📊 youtube.zip: Zip con el archivo de Power BI con las transformaciones y filtrado
+- 📊 youtube.zip: No se puede subir el Zip con el archivo de Power BI con las transformaciones y filtrado. Si es necesario vemos otras vías para enviarlo.
 - 📈 VisualizacionesYoutube_1ertrimestre2025.xlsx: Archivo Excel que incluye:
   - **Hoja Datos**: Dataset limpio y filtrado (solo países europeos, Q1 2025).
   - **Hoja Análisis**: KPIs y tablas dinámicas.
