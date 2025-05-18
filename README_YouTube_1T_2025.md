@@ -88,7 +88,7 @@ Se desarrolló un dashboard interactivo con los siguientes elementos:
 
 El proyecto incluye los siguientes archivos:
 
-- 🗂️ archive.zip: Archivo original con el dataset descargado.
+- 🗂️ archive.zip: El archivo original con el dataset descargado no se puede subir porque ocupa mas de 100MB. Arriba de este fichero se indica la URL de donde se ha descargado.
 - 🗺️ listado_paises_con_continente.csv: Archivo auxiliar con la relación entre código ISO del país, nombre del país y continente.
 - 📊 youtube.zip: No se puede subir el Zip con el archivo de Power BI con las transformaciones y filtrado. Si es necesario vemos otras vías para enviarlo.
 - 📈 VisualizacionesYoutube_1ertrimestre2025.xlsx: Archivo Excel que incluye:
